@@ -1,14 +1,16 @@
-# git add .
+# 查看状态 git status
 
-# git commit -m "文本"
+# 暂存文件 git add .
 
-# git checkout -b 分支名
+# 保存修改到本地 git commit -m "文本"
 
-# git push
+# 生成新分支 git checkout -b 分支名
+
+# 推送到远程 git push
 
 
 
-# git tag
+# 创建标签 git tag
 
 
 
